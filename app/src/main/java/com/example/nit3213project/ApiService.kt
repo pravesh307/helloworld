@@ -13,4 +13,4 @@ interface ApiService {
     @GET("/dashboard/{keypass}")
     fun getDashboardData(@Path("keypass") keypass: String): Call<DashboardResponse>
 }
-//ok1
+//ok2
