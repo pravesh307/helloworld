@@ -40,13 +40,13 @@ Sure! Here’s a clearer version of the installation instructions:
    - Click it, then select "Download ZIP" from the dropdown menu.
 
 3. **Extract the Zip File**:
-   - Locate the downloaded file named `praveshproject-master.zip`.
+   - Locate the downloaded file named `helloworld-master.zip`.
    - Extract the contents of the zip file.
 
 4. **Open the Project**:
-   - You should see a folder named `praveshproject-master` after extraction.
+   - You should see a folder named `helloworld-master` after extraction.
    - Open **Android Studio** and choose **Open an existing Android Studio project**.
-   - Select the entire `praveshproject-master` folder (do not open individual files or subfolders).
+   - Select the entire `helloworld-master` folder (do not open individual files or subfolders).
 
 5. **Sync Gradle**:
    - Once the project is open, Android Studio may prompt you to sync Gradle. Click on the "Sync Now" button when prompted.
