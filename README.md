@@ -33,7 +33,7 @@ Sure! Here’s a clearer version of the installation instructions:
 
 ### Installation Instructions
 
-1. **Clone the Repository**: Go to the repository at [https://github.com/pravesh307/praveshproject.git](https://github.com/pravesh307/praveshproject.git) and clone it.
+1. **Clone the Repository**: Go to the repository at https://github.com/pravesh307/helloworld.git and clone it.
 
 2. **Download as Zip**:
    - Look for the green "Code" button on the repository page.
